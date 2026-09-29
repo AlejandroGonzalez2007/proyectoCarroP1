@@ -13,7 +13,7 @@ public class MainCarro {
         c2.frenar();
         c3.potencia=1;
         c3.velocidad=1;
-
+        c4.velocidad=11;
         System.out.println("La potencia del carro1 es "+ c1.potencia+" y la velocidad1 es "+c1.velocidad);
         System.out.println("La potencia del carro2 es "+ c2.potencia+" y la velocidad2 es "+c2.velocidad);
         System.out.println("La potencia del carro3 es "+ c3.potencia+" y la velocidad3 es "+c3.velocidad);
